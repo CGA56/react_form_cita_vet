@@ -1,6 +1,7 @@
 
 El proyecto es un formulario utilizando React, con class component.
-## Available Scripts
+
+## Scripts Disponibles
 
 En el directorio del proyecto, puedes correr el comando:
 
